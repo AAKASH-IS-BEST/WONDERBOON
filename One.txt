@@ -21,3 +21,7 @@ Well I am Developer !! A more on web side and also learning for full stack !!
 Well thats cool, Are you in Mobile development ?!
 
 Well I am learning it !! I know bit of Android development using Java and I also learning React-Native !!!
+
+Well thats cool !!!
+
+so I think you also know React and Node Js !!!
