@@ -1,0 +1,7 @@
+Hello, I am doing something in this file, and this will be uploaded on public repo, you probably seeing this is the proof that this is on some public repo.
+
+Fork this one in your repo and pull some thing in this file to do chit chat !!!
+
+Leve something via pull request !!
+
+See you !!
