@@ -26,4 +26,4 @@ Well thats cool !!!
 
 so I think you also know React and Node Js !!!
 
-Yes, I know React, Native, Express, EJS !!! 
+Yes, I know ReactJS, NodeJs, ExpressJS, EJS !!! 
